@@ -1,3 +1,8 @@
+# Library
+
+# Description
+A simple react web-app that lets the user create books and add them to an array to display on the page.
+The user can go through the library of books by clicking the next or previous book buttons.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
